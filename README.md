@@ -12,7 +12,7 @@ Este projeto consiste em uma aplicação **React Native** com **Expo** para o fr
 
 ### Backend
 - **Node.js**
-- **Express** (se aplicável)
+- **Express** 
 
 ---
 
